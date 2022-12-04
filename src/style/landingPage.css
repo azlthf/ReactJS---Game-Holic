@@ -1,0 +1,53 @@
+.myBG {
+    height: 100vh;
+    background: url("../asset/bg/bg1.jpg");
+    background-size: cover;
+}
+
+.intro {
+    height: 300px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+
+.title {
+    font-size: 3rem;
+    font-weight: 800;
+    line-height: 1;
+    text-shadow: 2px 2px black;
+    letter-spacing: 4px;
+}
+
+.trending {
+    height: auto;
+    background: url("../asset/bg/bg4.jpg");
+    background-size: cover;
+}
+
+.best {
+    height: auto;
+    background: url("../asset/bg/bg5.jpg");
+}
+
+.gameImage {
+    height: auto;
+    background-color: black;
+    margin: 5px;
+    padding: 5px;
+}
+
+.images {
+    height: 500px;
+}
+
+.contact {
+    height: 50vh;
+    background: url("../asset/bg/bg6.JPG");
+    background-size: cover;
+}
+
+.footer {
+    height: 10vh;
+    background-color: black;
+}
